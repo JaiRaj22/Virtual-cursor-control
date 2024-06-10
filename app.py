@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import pyautogui
-import math
+
 pyautogui.FAILSAFE = False
 # Initialize MediaPipe Hand Detection
 mp_hands = mp.solutions.hands
